@@ -1,0 +1,12 @@
+Ngày học: Thứ Tư, 10/12/2025  
+Buổi học: Week1 - Day1 (Hello Python)
+
+✅ Tôi đã cài đặt thành công Python và VSCode.  
+✅ Tôi đã chạy được chương trình Python đầu tiên.  
+✅ Tôi hiểu cách chạy file bằng terminal trong VSCode.  
+✅ Tôi đã tạo thư mục Week1/Day1_hello và lưu code gọn gàng.
+
+Cảm nhận:  
+Hôm nay là buổi đầu tiên tôi bắt đầu hành trình học Python Automation.  
+Cảm giác khá hào hứng vì đã chạy được đoạn code đầu tiên và thấy Python dễ hiểu hơn mình nghĩ.  
+Tôi muốn duy trì nhịp học đều đặn và mỗi buổi đều lưu lại kết quả như thế này.
